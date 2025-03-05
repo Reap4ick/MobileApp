@@ -1,4 +1,6 @@
-<img src="VIEW/5345972663102859215.jpg" width="300"> <img src="VIEW/5345972663102859216.jpg" width="300">
+Ось як виглядає:)
+
+<img src="VIEW/5345972663102859215.jpg" width="300">      <img src="VIEW/5345972663102859216.jpg" width="300">
 
 # Welcome to your Expo app 👋
 
